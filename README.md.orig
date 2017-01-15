@@ -1,9 +1,5 @@
-
+<<<<<<< HEAD
 # README
-
-# car_mover
-a web app prototype of a car rental returning platform
-
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -27,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# car_mover
+a web app prototype of a car rental returning platform
+>>>>>>> 30a0168904224f46f87e890ad4df8b555a2649a7
